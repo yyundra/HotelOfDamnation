@@ -13,26 +13,39 @@ With danger lurking in the darkness, every jump could be his last.
 
 **Will Oslo escape the nightmare, or become the monster's next victim?**
 
-## 🎮 Gameplay
+## 🎮 Gameplay & Features
 
-*Oslo: Climb for Survival* is a 2D horror platformer developed with Unity. Players must navigate a dangerous hotel, overcome obstacles, and climb toward safety while escaping the horrors lurking below.
+*Hotel of Damnation* is a 2D horror platformer developed in Unity. Players must climb through a ruined hotel, overcome dangerous obstacles, and escape a horrifying creature rising from below.
 
-The game combines vertical platforming with horror elements, challenging players to react quickly, time their jumps, and survive the climb.
+Survival depends on precise movement, resource management, and quick reactions as the climb becomes increasingly dangerous.
 
-### Core Gameplay Elements
+### Implemented Features
 
-- **Vertical Platforming** — Jump between platforms and climb toward higher floors.
-- **Double Jump** — Reach platforms that would otherwise be out of reach.
-- **Horror Atmosphere** — Explore a ruined hotel overrun by monstrous growths and supernatural threats.
-- **Survival Challenge** — Keep moving and avoid falling victim to the horrors below.
+- **Vertical Platforming** — Jump between platforms to ascend through the hotel.
+- **Double Jump** — Reach higher or more distant platforms.
+- **Flashlight System** — Illuminate dark areas to navigate the environment.
+- **Battery Management** — Manage flashlight battery usage throughout the climb.
+- **Health System** — Survive hazards while keeping track of your HP.
+- **Spikes** — Avoid deadly environmental hazards.
+- **Bat Patrol** — Navigate around patrolling bat enemies.
+- **Gas Pipes** — Watch out for dangerous gas pipe obstacles.
+- **Cracked Platforms** — Move quickly across unstable platforms before they break.
+- **Rising Flesh** — Escape the monstrous threat continuously rising from below.
 
 ## 🏚️ Current Progress
 
-The current build includes the following progression:
+**Available Progression:** Level 1 → Level 2 → Victory
 
-**Level 1 → Level 2 → Victory**
+The current build features playable levels, survival mechanics, environmental hazards, and the Rising Flesh pursuit system.
 
-This release represents an early playable portion of Oslo's journey. More floors, greater challenges, and a longer climb are part of the game's planned progression.
+The journey is far from over. More floors, new threats, and additional challenges are planned for future development.
+
+## 🔮 Future Development
+
+- **Shadow Stalker** — A supernatural enemy with unique behavior and interactions.
+- **Additional Floors** — Expand the hotel with new environments and challenges.
+- **New Obstacles & Enemies** — Introduce more threats as Oslo climbs higher.
+- **Expanded Progression** — Continue developing the journey toward the rooftop escape.
 
 ## 🕹️ Controls
 
@@ -48,12 +61,10 @@ This release represents an early playable portion of Oslo's journey. More floors
 - **Game Engine:** Unity 2D
 - **Programming Language:** C#
 - **Version Control:** Git & GitHub
-- **Texturing:** Krita
-- **Audio Editing:** Studio One
 
 ## 💻 Platform
-
 - Windows PC
+- WebGL (on itch.io)
 
 ## 🚀 Getting Started
 
@@ -87,26 +98,16 @@ HotelOfDamnation/
 
 *Note: The structure above highlights the main Unity project directories. Additional folders and assets may be present in the repository.*
 
-## 🎯 Project Goals
-
-The project explores the development of a 2D horror platformer through:
-
-- Vertical level progression and platforming challenges.
-- Horror-inspired environmental design.
-- Player movement and survival mechanics.
-- Unity-based game development and version control workflows.
-
-## 📌 Future Development
-
-The current release is only the beginning of Oslo's climb. Planned directions include expanding the hotel with additional floors, introducing more challenging obstacles and enemies, and developing the journey toward the rooftop escape.
-
 ## 👥 Credits
 
 Developed as a game development project.
 
 **Project Name:** Hotel of Damnation  
-**Game Title:** Oslo: Climb for Survival  
+**Game Title:** Hotel of Damnation  
 **Genre:** 2D Horror Platformer
+**2D Asset Designer** : Najwa Azahra Putri
+**Level Designer** : Syifa Nafisa & Melvina Chairany Risdiyana
+**C# Programmer** : Dara Dwi Hidayat
 
 ---
 
